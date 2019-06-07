@@ -7,6 +7,6 @@
 [git 教程- 廖雪峰讲git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 "git")
 
 ##### 新添加常用git->github一般流程
-
+首先需要将本地git和github建立链接
 
 
